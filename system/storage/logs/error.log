@@ -1,0 +1,26 @@
+2018-03-28 2:11:26 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'laptop' in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 7
+2018-03-28 2:11:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:11:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:11:26 - PHP Notice:  Undefined variable: mysql in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
+2018-03-28 2:11:26 - PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
+2018-03-28 2:12:43 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'laptop' in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 7
+2018-03-28 2:12:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:12:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:12:43 - PHP Notice:  Undefined variable: mysql in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
+2018-03-28 2:12:43 - PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
+2018-03-28 2:12:45 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'laptop' in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 7
+2018-03-28 2:12:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:12:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:12:45 - PHP Notice:  Undefined variable: mysql in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
+2018-03-28 2:12:45 - PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
+2018-03-28 2:13:01 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 7
+2018-03-28 2:13:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:13:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:13:01 - PHP Notice:  Undefined variable: mysql in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
+2018-03-28 2:13:01 - PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
+2018-03-28 2:13:51 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'laptop' in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 7
+2018-03-28 2:13:51 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:13:51 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\laptop\upload\system\library\db\mysqli.php on line 10
+2018-03-28 2:13:51 - PHP Notice:  Undefined variable: mysql in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
+2018-03-28 2:13:51 - PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\laptop\upload\install\controller\install\step_3.php on line 280
